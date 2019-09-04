@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PlayAudio</string>
+    <string name="bt_soundpool">Play with SOUNDPOOL</string>
+    <string name="btn_media">Play with Media Player</string>
+</resources>
